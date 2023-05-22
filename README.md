@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>yemt</title>
+    <title>Yemt</title>
     <style>
         .image-container {
             position: relative;
